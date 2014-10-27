@@ -1,0 +1,20 @@
+{
+  "name": "qfail",
+  "version": "0.0.1",
+  "description": "Automate async error handling in http request handlers",
+  "keywords": [
+    "util",
+    "domain",
+    "errors"
+  ],
+  "author": "Tenor Biel <tenorbiel@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/roughculture/qfail.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "LICENSE"
+  ]
+}
